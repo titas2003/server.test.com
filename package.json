@@ -1,0 +1,26 @@
+{
+  "name": "server.test.com",
+  "version": "1.0.0",
+  "description": "test server side",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "serve": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titas2003/server.test.com.git"
+  },
+  "keywords": [
+    "NA"
+  ],
+  "author": "Titas Majumder",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/titas2003/server.test.com/issues"
+  },
+  "homepage": "https://github.com/titas2003/server.test.com#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
